@@ -1,8 +1,8 @@
 <?php
 $host = "localhost";
-$username = "root";
-$password = "";
-$database = "freenetly";
+$username = "onenetly_freenetly";
+$password = "AmiMotiur27@";
+$database = "onenetly_freenetly";
 
 // Create connection
 $conn = new mysqli($host, $username, $password, $database);
