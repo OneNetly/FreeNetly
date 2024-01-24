@@ -2,7 +2,7 @@
 include('header.php');
 include_once 'config.php';
 ?>
-<center><script type="text/javascript">
+<br><center><script type="text/javascript">
 	atOptions = {
 		'key' : 'a11750efb3e84a4d556c5f84f5354363',
 		'format' : 'iframe',
