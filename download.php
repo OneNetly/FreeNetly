@@ -4,13 +4,13 @@ include_once 'config.php';
 ?>
 <br><center><script type="text/javascript">
 	atOptions = {
-		'key' : 'a11750efb3e84a4d556c5f84f5354363',
+		'key' : '88ca53acb79afa2cfee7b3b8e0406cc5',
 		'format' : 'iframe',
-		'height' : 90,
-		'width' : 728,
+		'height' : 250,
+		'width' : 300,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="//www.topcreativeformat.com/a11750efb3e84a4d556c5f84f5354363/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="//www.topcreativeformat.com/88ca53acb79afa2cfee7b3b8e0406cc5/invoke.js"></scr' + 'ipt>');
 </script></center>
 <?php
 function truncateFileName($fileName, $maxLength) {
