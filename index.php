@@ -85,7 +85,7 @@
         }
     }
     ?>
-    <center><script type="text/javascript">
+    <center><br><script type="text/javascript">
 	atOptions = {
 		'key' : 'a11750efb3e84a4d556c5f84f5354363',
 		'format' : 'iframe',
