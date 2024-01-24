@@ -95,7 +95,6 @@
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="//www.topcreativeformat.com/a11750efb3e84a4d556c5f84f5354363/invoke.js"></scr' + 'ipt>');
 </script></center>
-<br>
 <div class="bg-white py-6 sm:py-8 lg:py-12">
   <div class="mx-auto max-w-screen-2xl px-4 md:px-8">
     <!-- text - start -->
