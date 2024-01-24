@@ -1,7 +1,18 @@
 <?php 
 include('header.php');
 include_once 'config.php';
-
+?>
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'a11750efb3e84a4d556c5f84f5354363',
+		'format' : 'iframe',
+		'height' : 90,
+		'width' : 728,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="//www.topcreativeformat.com/a11750efb3e84a4d556c5f84f5354363/invoke.js"></scr' + 'ipt>');
+</script>
+<?php
 function truncateFileName($fileName, $maxLength) {
     if (strlen($fileName) > $maxLength) {
         return substr($fileName, 0, $maxLength - 3) . '...';
@@ -35,12 +46,14 @@ if (isset($_GET['cid'])) {
     echo "<div class='p-4 text-center text-red-500'>Invalid request.</div>";
 }
 ?>
-<!DOCTYPE html>
-<html>
-<head>
-    <title>File Download</title>
-    <!-- Include Tailwind CSS here -->
-    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.15/dist/tailwind.min.css" rel="stylesheet">
-</head>
-<body>
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'a11750efb3e84a4d556c5f84f5354363',
+		'format' : 'iframe',
+		'height' : 90,
+		'width' : 728,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="//www.topcreativeformat.com/a11750efb3e84a4d556c5f84f5354363/invoke.js"></scr' + 'ipt>');
+</script>
 <?php include('footer.php'); ?>
